@@ -33,7 +33,7 @@ class Profile {
 }
 
 // Uso
-public class Main {
+public class MainObs {
     public static void main(String[] args) {
         Profile profile = new Profile();
         User user1 = new User("Alice");
